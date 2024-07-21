@@ -1,0 +1,243 @@
+﻿Year,Acres,Region
+2022,313,Alaska
+2021,262,Alaska
+2020,181,Alaska
+2019,349,Alaska
+2018,229,Alaska
+2017,209,Alaska
+2016,343,Alaska
+2015,351,Alaska
+2014,329,Alaska
+2013,391,Alaska
+2012,275,Alaska
+2011,377,Alaska
+2010,359,Alaska
+2009,328,Alaska
+2008,265,Alaska
+2007,247,Alaska
+2006,254,Alaska
+2005,296,Alaska
+2004,426,Alaska
+2003,379,Alaska
+2002,378,Alaska
+2001,320,Alaska
+2022,"2,295",Northwest
+2021,"3,075",Northwest
+2020,"3,107",Northwest
+2019,"2,260",Northwest
+2018,"2,787",Northwest
+2017,"2,150",Northwest
+2016,"2,082",Northwest
+2015,"2,898",Northwest
+2014,"2,155",Northwest
+2013,"2,107",Northwest
+2012,"1,449",Northwest
+2011,"1,342",Northwest
+2010,"1,078",Northwest
+2009,"1,624",Northwest
+2008,"1,365",Northwest
+2007,"2,346",Northwest
+2006,"2,666",Northwest
+2005,"1,924",Northwest
+2004,"1,901",Northwest
+2003,"2,370",Northwest
+2002,"2,148",Northwest
+2001,"2,160",Northwest
+2022,"3,244",Northern California
+2021,"3,621",Northern California
+2020,"4,248",Northern California
+2019,"3,284",Northern California
+2018,"3,428",Northern California
+2017,"3,445",Northern California
+2016,"3,266",Northern California
+2015,"3,802",Northern California
+2014,"3,605",Northern California
+2013,"4,703",Northern California
+2012,"3,356",Northern California
+2011,"2,791",Northern California
+2010,"2,502",Northern California
+2009,"3,677",Northern California
+2008,"3,407",Northern California
+2007,"3,093",Northern California
+2006,"3,676",Northern California
+2005,"3,010",Northern California
+2004,"3,613",Northern California
+2003,"3,795",Northern California
+2002,"3,789",Northern California
+2001,"1,060",Northern California
+2022,"4,345",Southern California
+2021,"5,083",Southern California
+2020,"5,295",Southern California
+2019,"4,556",Southern California
+2018,"4,322",Southern California
+2017,"5,201",Southern California
+2016,"3,900",Southern California
+2015,"3,778",Southern California
+2014,"3,527",Southern California
+2013,"4,334",Southern California
+2012,"4,146",Southern California
+2011,"4,633",Southern California
+2010,"3,394",Southern California
+2009,"4,412",Southern California
+2008,"5,208",Southern California
+2007,"5,140",Southern California
+2006,"3,166",Southern California
+2005,"3,781",Southern California
+2004,"3,845",Southern California
+2003,"3,929",Southern California
+2002,"4,060",Southern California
+2001,"4,099",Southern California
+2022,"1,649",Northern Rockies
+2021,"2,981",Northern Rockies
+2020,"2,779",Northern Rockies
+2019,"1,623",Northern Rockies
+2018,"2,137",Northern Rockies
+2017,"2,646",Northern Rockies
+2016,"1,784",Northern Rockies
+2015,"2,246",Northern Rockies
+2014,"1,646",Northern Rockies
+2013,"1,468",Northern Rockies
+2012,"2,105",Northern Rockies
+2011,"1,109",Northern Rockies
+2010,"1,107",Northern Rockies
+2009,"1,344",Northern Rockies
+2008,"1,971",Northern Rockies
+2007,"2,005",Northern Rockies
+2006,"2,303",Northern Rockies
+2005,"1,183",Northern Rockies
+2004,"1,883",Northern Rockies
+2003,"1,970",Northern Rockies
+2002,"1,665",Northern Rockies
+2001,"1,801",Northern Rockies
+2022,"1,171",Great Basin
+2021,"1,362",Great Basin
+2020,"2,154",Great Basin
+2019,"1,387",Great Basin
+2018,"1,631",Great Basin
+2017,"1,988",Great Basin
+2016,"1,251",Great Basin
+2015,985,Great Basin
+2014,782,Great Basin
+2013,773,Great Basin
+2012,"1,140",Great Basin
+2011,712,Great Basin
+2010,810,Great Basin
+2009,726,Great Basin
+2008,826,Great Basin
+2007,"1,048",Great Basin
+2006,943,Great Basin
+2005,813,Great Basin
+2004,526,Great Basin
+2003,944,Great Basin
+2002,730,Great Basin
+2001,"2,160",Great Basin
+2022,N/A,Western Great Basin
+2021,N/A,Western Great Basin
+2020,N/A,Western Great Basin
+2019,N/A,Western Great Basin
+2018,N/A,Western Great Basin
+2017,N/A,Western Great Basin
+2016,N/A,Western Great Basin
+2015,N/A,Western Great Basin
+2014,247,Western Great Basin
+2013,215,Western Great Basin
+2012,367,Western Great Basin
+2011,383,Western Great Basin
+2010,212,Western Great Basin
+2009,209,Western Great Basin
+2008,224,Western Great Basin
+2007,425,Western Great Basin
+2006,331,Western Great Basin
+2005,262,Western Great Basin
+2004,173,Western Great Basin
+2003,227,Western Great Basin
+2002,215,Western Great Basin
+2001,277,Western Great Basin
+2022,"1,379",Southwest
+2021,"1,657",Southwest
+2020,"2,743",Southwest
+2019,"1,895",Southwest
+2018,"2,072",Southwest
+2017,"2,172",Southwest
+2016,"2,084",Southwest
+2015,"1,327",Southwest
+2014,"1,380",Southwest
+2013,"1,519",Southwest
+2012,"1,410",Southwest
+2011,"2,104",Southwest
+2010,"1,600",Southwest
+2009,"2,074",Southwest
+2008,"2,013",Southwest
+2007,"1,730",Southwest
+2006,"2,511",Southwest
+2005,"3,287",Southwest
+2004,"1,491",Southwest
+2003,"1,657",Southwest
+2002,"2,668",Southwest
+2001,"2,096",Southwest
+2022,"1,584",Rocky Mountains
+2021,"2,146",Rocky Mountains
+2020,"2,063",Rocky Mountains
+2019,948,Rocky Mountains
+2018,"1,394",Rocky Mountains
+2017,"2,150",Rocky Mountains
+2016,"2,048",Rocky Mountains
+2015,"1,909",Rocky Mountains
+2014,"1,667",Rocky Mountains
+2013,"1,455",Rocky Mountains
+2012,"3,592",Rocky Mountains
+2011,"2,105",Rocky Mountains
+2010,"1,962",Rocky Mountains
+2009,"1,434",Rocky Mountains
+2008,"1,616",Rocky Mountains
+2007,"1,876",Rocky Mountains
+2006,"2,968",Rocky Mountains
+2005,"1,940",Rocky Mountains
+2004,704,Rocky Mountains
+2003,"4,214",Rocky Mountains
+2002,"2,118",Rocky Mountains
+2001,"4,135",Rocky Mountains
+2022,"8,485",Eastern Area
+2021,"10,725",Eastern Area
+2020,"13,004",Eastern Area
+2019,"5,712",Eastern Area
+2018,"6,822",Eastern Area
+2017,"9,757",Eastern Area
+2016,"11,163",Eastern Area
+2015,"11,553",Eastern Area
+2014,"6,996",Eastern Area
+2013,"7,056",Eastern Area
+2012,"10,942",Eastern Area
+2011,"8,992",Eastern Area
+2010,"15,675",Eastern Area
+2009,"15,719",Eastern Area
+2008,"11,152",Eastern Area
+2007,"12,453",Eastern Area
+2006,"14,227",Eastern Area
+2005,"13,014",Eastern Area
+2004,"11,781",Eastern Area
+2003,"14,851",Eastern Area
+2002,"12,857",Eastern Area
+2001,"18,743",Eastern Area
+2022,"36,964",Southern Area
+2021,"21,729",Southern Area
+2020,"17,989",Southern Area
+2019,"22,101",Southern Area
+2018,"26,754",Southern Area
+2017,"33,828",Southern Area
+2016,"33,011",Southern Area
+2015,"30,067",Southern Area
+2014,"33,345",Southern Area
+2013,"14,328",Southern Area
+2012,"29,549",Southern Area
+2011,"39,329",Southern Area
+2010,"36,108",Southern Area
+2009,"38,103",Southern Area
+2008,"42,043",Southern Area
+2007,"43,083",Southern Area
+2006,"47,175",Southern Area
+2005,"28,920",Southern Area
+2004,"27,758",Southern Area
+2003,"16,479",Southern Area
+2002,"31,394",Southern Area
+2001,"34,605",Southern Area
