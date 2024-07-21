@@ -42,9 +42,9 @@ from urllib.request import urlopen
 # So, I push these to my plotly account, where I can get the code for the iframe and embed in Wix.
 
 # binds this to my plotly account so i can push visualizations there
-username = 'sanjanams'
+username = 'user'
 # specific api key
-api_key = '1HYbr3CiGDF6zERu2RwQ'
+api_key = 'apikey'
 # sets the usernames and credentials so it pushes to my account
 chart_studio.tools.set_credentials_file(username=username, api_key=api_key)
 
